@@ -1,4 +1,4 @@
-﻿import type { MetadataRoute } from "next";
+import type { MetadataRoute } from "next";
 import { roomsData } from "@/lib/data/rooms";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -12,6 +12,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/explore-ujjain",
     "/about",
     "/contact",
+    "/privacy-policy",
+    "/terms-of-use",
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),

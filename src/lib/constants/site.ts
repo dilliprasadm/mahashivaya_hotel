@@ -1,4 +1,4 @@
-﻿export const hotelConfig = {
+export const hotelConfig = {
   name: "Mahashivaya Guest House",
   shortName: "Mahashivaya",
   tagline: "Stay Close to Mahakal",
@@ -85,3 +85,5 @@
     },
   ],
 };
+
+export const guestHouseConfig = hotelConfig;

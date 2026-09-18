@@ -13,10 +13,11 @@ export const metadata: Metadata = {
   keywords: [
     "Mahashivaya Guest House",
     "Ujjain Guest House",
-    "Hotel near Mahakal Ujjain",
+    "Guest House near Mahakal Ujjain",
     "Stay near Mahakal Lok Corridor",
     "Ujjain pilgrimage accommodation",
-    "Hotels near Mahakaleshwar temple",
+    "Guest House near Mahakaleshwar temple",
+    "Best guest house in Ujjain",
     "Family room in Ujjain",
     "Bhasma Aarti stay Ujjain",
   ],
